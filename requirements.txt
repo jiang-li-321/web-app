@@ -195,6 +195,7 @@ streamlit-shap==1.0.2
 svm==0.1.0
 sympy==1.12
 tenacity==8.3.0
+tensorflow==2.14.0; platform_system == "Linux" 
 termcolor==2.3.0
 terminado==0.18.1
 threadpoolctl==3.4.0
